@@ -2,4 +2,4 @@
 
 ## Fixed
 
-- Update checks now report up to date when the installed version matches the latest release
+- Packaged Windows builds now include the production update feed configuration required for in-app updates
