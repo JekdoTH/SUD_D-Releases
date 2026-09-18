@@ -1,5 +1,5 @@
 # SUD-D Release Notes
 
-## Fixed
+## Improved
 
-- Packaged Windows builds now include the production update feed configuration required for in-app updates
+- Windows in-app update flow is now ready for normal future releases
