@@ -1,9 +1,5 @@
 # SUD-D Release Notes
 
-## New
+## Fixed
 
-- Windows installer and in-app update controls
-
-## Improved
-
-- Version and build revision are visible in the Update screen
+- Update checks now report up to date when the installed version matches the latest release

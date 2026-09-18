@@ -1,8 +1,8 @@
-version: 0.1.0
+version: 0.1.1
 files:
-  - url: SUD-D-Setup-0.1.0.exe
-    sha512: +f0TGflRpO8eiWtsqm+tPadMhvMLHLb08ahC1qbv85Ydx26wADljYgHTy+1gXtVvlNpARNONCmwY3CUVetGqKw==
-    size: 99734275
-path: SUD-D-Setup-0.1.0.exe
-sha512: +f0TGflRpO8eiWtsqm+tPadMhvMLHLb08ahC1qbv85Ydx26wADljYgHTy+1gXtVvlNpARNONCmwY3CUVetGqKw==
-releaseDate: '2026-09-17T18:47:48.234Z'
+  - url: SUD-D-Setup-0.1.1.exe
+    sha512: cSzdPeaMewdlsM/M8INvjrbIrR8gb2UwbjDEn2NyftDRXYL/BrdfxHi5KWn8f/tnDMQqtoqTTdwdMD/YdI+fmQ==
+    size: 98849305
+path: SUD-D-Setup-0.1.1.exe
+sha512: cSzdPeaMewdlsM/M8INvjrbIrR8gb2UwbjDEn2NyftDRXYL/BrdfxHi5KWn8f/tnDMQqtoqTTdwdMD/YdI+fmQ==
+releaseDate: '2026-09-18T04:00:12.780Z'
